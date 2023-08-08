@@ -31,7 +31,7 @@ Install dependencies
 Add environment variables
 
 ```bash
-  Rename .env_example to .env and set values
+  Rename .env-example to .env and set values
 ```
 
 Start the server
